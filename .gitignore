@@ -1,0 +1,7 @@
+# 数据集（太大，不上传）
+mnist_train.csv
+mnist_test.csv
+
+# Python 缓存
+__pycache__/
+*.pyc
