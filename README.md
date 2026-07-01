@@ -69,6 +69,9 @@ python digit_recognizer.py
 - **反向传播：** 手动推导梯度，链式法则
 - **优化方法：** 批量梯度下降（Batch Gradient Descent）
 
+  如果您有什么问题的话，请直接私信联系我，我会尽量给出解答
+  
+
 ## 许可证
 
 MIT
